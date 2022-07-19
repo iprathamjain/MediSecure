@@ -10,6 +10,9 @@ The aim of this framework is firstly to implement blockchain technology for EHR 
 
 [![Demo](https://github.com/iprathamjain/MediSecure/blob/main/YT.png)](https://youtu.be/FYWpQ5r9M_k)
 
+## Project Report
+https://docs.google.com/document/d/1wx6kVMHcQ0u1OuJ6UBvFAhRZ1NQJ4Db8U23WgYCYZs4/edit?usp=sharing
+
 
 ## Installation
 
